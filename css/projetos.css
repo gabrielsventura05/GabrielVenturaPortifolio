@@ -1,0 +1,166 @@
+
+.title-2 {
+
+    color: white;
+
+}
+
+#projetos {
+
+   margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 5%;
+    background-color: black
+}
+
+#projetos h1 {
+
+    padding-top: 5% ;
+    padding-bottom: 5%;
+}
+
+#projeto1, #projeto2 {
+margin-top: -2%;
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 500px;
+max-width: 400px;
+margin-left: auto;
+margin-right: auto;
+padding-top: 2%;
+
+
+
+ 
+    
+
+}
+
+
+
+
+
+#projeto1 .card,
+#projeto2 .card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+
+    width: 350px;
+    padding-bottom: 5%;
+    margin-top: 0%;
+    margin-top: -5%;
+    background-color: black;
+    border: 1px solid blue;
+    height: 480px;
+    border-radius: 3%;
+    
+}
+
+#projeto1 .card h1,
+#projeto2 .card h1 {
+
+    font-size: 30px;
+    color: white;
+}
+
+
+
+#projeto1 .card img, 
+#projeto2 .card img {
+    
+
+    border-radius: 0;
+    margin-top: 2%;
+    width: 90%;
+}
+
+#projeto1 .card  h1, p {
+
+    
+
+    color: white;
+}
+
+#projeto1 .card  .card-body .languages {
+
+    word-spacing: 20px;
+}
+
+#projeto1 .card .buttons {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#projeto1 .card .buttons button {
+
+    width: 120px;
+    height: 35px;
+    border: 2px solid white;
+    background-color: black;
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
+
+#projeto2 .card  .card-body .languages {
+
+    word-spacing: 20px;
+}
+
+#projeto2 .card .buttons {
+
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#projeto2 .card .buttons button {
+
+    width: 120px;
+    height: 35px;
+    border: 2px solid white;
+    background-color: black;
+    border-top-left-radius: 13px;
+    border-bottom-left-radius: 13px;
+    border-top-right-radius: 13px;
+    border-bottom-right-radius: 13px;
+}
+
+
+
+
+
+#projeto3 .card {
+    
+    border: 2px solid blue;
+    border-radius: 5%;
+    
+}
+
+#projeto1 .card .buttons button a {
+
+    text-decoration: none;
+    color: white;
+
+}
+
+
+#projeto2 .card .buttons button a {
+
+    text-decoration: none;
+    color: white;
+
+}
+

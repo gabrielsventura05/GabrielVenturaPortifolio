@@ -1,0 +1,34 @@
+.navbar {
+
+    background-color: black;
+}
+
+.navbar .navbar-brand {
+
+    margin-left: 5%;
+    color: white
+}
+
+.menu {
+
+    margin-right: 10%;
+
+}
+
+.menu .navbar-nav .nav-item{
+
+    margin-right: 20px;
+}
+
+
+
+
+.navbar .collapse .navbar-nav .nav-item .nav-link {
+
+
+
+    color: white
+} 
+
+.nav-item
+

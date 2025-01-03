@@ -1,0 +1,38 @@
+#sobre {
+
+margin-top: 10%;
+    background-color: black
+}
+
+
+.foto {
+
+    width: 70%;
+}
+
+#foto {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text {
+margin-left: 7%;
+background-color: black
+    
+}
+
+.about {
+
+    text-align: justify;
+    line-height: 35px;
+}
+
+.title-1 {
+
+    color: white;
+}
+
+
+
