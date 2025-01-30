@@ -1,0 +1,73 @@
+.corpo{
+
+    background-color: black;
+}
+
+/*BARRA DE NAVEGAÇÃO*/
+
+.navbar {
+height: 50px;
+    background-color: black
+}
+
+.navbar a {
+
+    margin-left: 5%;
+    color: white
+}
+
+
+
+
+
+/*RODAPÉ*/
+footer p{
+
+    text-align: center;
+    vertical-align: middle;
+    
+    
+
+}
+
+footer {
+background-color: rgb(20, 20, 20);
+    height: 50px;
+}
+
+.navbar-collapse {
+
+    margin-right: 5%;
+}
+
+#contacts .contacts{
+
+    display: flex;
+    justify-content: center;
+}
+
+#contacts .contacts .contact1, .contact2 {
+
+    display: flex;
+    justify-content: center;
+}
+
+#contacts .contacts .contact1 a , .contact2 a {
+
+    text-decoration: none;
+    font-size: 20px;
+
+}
+
+#contacts .contacts {
+
+    margin-top: 5%;
+}
+
+
+
+footer {
+
+    margin-top: 10%;
+}
+

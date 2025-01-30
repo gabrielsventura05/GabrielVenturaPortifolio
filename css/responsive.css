@@ -1,0 +1,50 @@
+
+@media screen and (max-width: 460px) {
+
+    .navbar #logo {
+        
+        font-size: 25px;
+        
+        color: aqua;
+    }
+
+    #sobre {
+
+        margin-top: 25%;
+        
+    }
+
+    #sobre .foto {
+        width: 70;
+        text-align: center;
+    }
+
+    #sobre #text {
+        
+        padding-right: 10%;
+        padding-left: 10%;
+        margin: 30px 5px;
+        text-align: center;
+        
+        flex-direction: row;
+        flex-wrap: wrap;
+
+    }
+
+    #projetos {
+
+        margin-top: -3%;
+    }
+
+    #projetos #projeto2 {
+
+        margin-top:5%;
+    }
+
+    #contacts .contacts .contact1 a {
+
+        margin-right: 134px;
+    }
+
+
+}
