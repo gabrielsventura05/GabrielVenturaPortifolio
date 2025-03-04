@@ -233,9 +233,20 @@ padding-top: 2%;
 
 }
 
+
+
 #projeto2 {
 
     display: flex;
     justify-content: center;
+}
+
+
+.projetos2 #projeto1,
+.projetos2 #projeto2,
+.projetos2 #projeto3 {
+    margin-top: 3%;
+
+
 }
 

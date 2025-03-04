@@ -71,3 +71,26 @@ footer {
     margin-top: 10%;
 }
 
+#contacts  .icon-whats {
+
+    width: 50px;
+    height: 30px;
+    color: green;
+    
+
+}
+
+#contacts a {
+
+    color: white;
+}
+
+#contacts  .icon-gmail {
+
+    width: 50px;
+    height: 30px;
+    color: blue;
+    
+
+}
+
